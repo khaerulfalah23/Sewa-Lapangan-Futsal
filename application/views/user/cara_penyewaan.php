@@ -1,7 +1,7 @@
 <section id="what-we-do" class="what-we-do">
       <div class="container">
 
-        <div class="section-title">
+        <div class="section-title" style="margin-bottom: 0px;">
           <h2>CARA MELAKUKAN PENYEWAAN</h2>
           <p style="text-transform: Capitalize;">Penyewaan dilakukan secara online melalui form penyewaan yang telah disediakan di website</p>
         </div>
