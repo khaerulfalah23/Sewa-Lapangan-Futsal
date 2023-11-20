@@ -45,6 +45,18 @@
 	</section>
 	<!-- ./Footer -->
 
+	<!-- Vendor JS Files -->
+	<script src="<?= base_url() ?>assets/user/vendor/purecounter/purecounter_vanilla.js"></script>
+	<script src="<?= base_url() ?>assets/user/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="<?= base_url() ?>assets/user/vendor/glightbox/js/glightbox.min.js"></script>
+	<script src="<?= base_url() ?>assets/user/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+	<script src="<?= base_url() ?>assets/user/vendor/swiper/swiper-bundle.min.js"></script>
+	<script src="<?= base_url() ?>assets/user/vendor/waypoints/noframework.waypoints.js"></script>
+	<script src="<?= base_url() ?>assets/user/vendor/php-email-form/validate.js"></script>
+
+	<!-- Template Main JS File -->
+	<script src="<?= base_url() ?>assets/user/js/main.js"></script>
+
 <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
