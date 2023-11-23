@@ -24,7 +24,17 @@
     <!-- Template Main CSS File -->
     <link href="<?= base_url() ?>assets/user/css/style.css" rel="stylesheet">
 
-    
+    <style>
+      #hero {
+        width: 100%;
+        height: 60vh;
+        background: url("<?= base_url() ?>assets/user/img/lapanganfutsal.jpeg") center center;
+        background-size: cover;
+        position: relative;
+        margin-top: 70px;
+        padding: 0;
+      }
+    </style>
     
     <title>Sewa Lapangan Futsal</title>
   </head>

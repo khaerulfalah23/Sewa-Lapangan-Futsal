@@ -356,7 +356,7 @@ body {
   #hero {
     width: 100%;
     height: 60vh;
-    background: url("../img/hero-bg.jpg") center center;
+    background: url("./assets/user/img/lapanganfutsal.jpeg") center center;
     background-size: cover;
     position: relative;
     margin-top: 70px;
