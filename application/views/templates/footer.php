@@ -1,71 +1,123 @@
-<footer id="footer" class="border-top">
+<!-- Start footer -->
+<footer id="mu-footer">
+		<div class="mu-footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h1>Selafut</h1>
+							<p>website sistim penyewaan lapangan futsal berbasis web</p>
+							<div class="mu-social-media">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a class="mu-twitter" href="#"><i class="fa fa-twitter"></i></a>
+								<a class="mu-pinterest" href="#"><i class="fa fa-pinterest-p"></i></a>
+								<a class="mu-google-plus" href="#"><i class="fa fa-google-plus"></i></a>
+								<a class="mu-youtube" href="#"><i class="fa fa-youtube"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Sosial Media</h3>
+							<ul class="list-unstyled">
+							  	<li class="media">
+								   <span class="fa fa-twitter"></span>
+								    <div class="media-body">
+								    	<p><strong>@se_la_fut</strong></p>
+								  
+								    </div>
+							  	</li>
+							  	<li class="media">
+								   	<span class="fa fa-youtube"></span>
+								    <div class="media-body">
+								    	<p><strong>Selafut</strong> </p>
+								    
+								    </div>
+							  	</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Jam Oprasional</h3>
+							<ul class="mu-useful-links">
+								<li><a href="#">Senin - Sabtu : 09.00 - 22.00</a></li>
+								<li><a href="#">Minggu : 10.00 - 20.00</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Informasi Kontak</h3>
+							<ul class="list-unstyled">
+							  <li class="media">
+							    <span class="fa fa-home"></span>
+							    <div class="media-body">
+							    	<p>Jl.Menteng no 76</p>
+							    </div>
+							  </li>
+							  <li class="media">
+							    <span class="fa fa-phone"></span>
+							    <div class="media-body">
+							       <p>+ 62 089 7890 4567</p>
+							     	<p>+ 62 085 8894 3269</p>
+							    </div>
+							  </li>
+							  <li class="media">
+							    <span class="fa fa-envelope"></span>
+							    <div class="media-body">
+							     <p>selafut@gmail.com</p>
+							     
+							    </div>
+							  </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="mu-footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-footer-bottom-area">
+							<p class="mu-copy-right">&copy; Copyright Selafut</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
-<div class="footer-top">
-  <div class="container">
-	<div class="row">
+	</footer>
+	<!-- End footer -->
 
-	  <div class="col-lg-3 col-md-6 footer-contact">
-		<h3>SE<span class="text-primary">LA</span>FUT</h3>
-		<p>
-		  Jalan Malioboro No.20<br>
-		  Kota Bogor<br>
-		  Indonesia <br><br>
-		  <strong>Phone:</strong> +62 895-0123-4567<br>
-		  <strong>Email:</strong> SelafutBogor@gmail.com<br>
-		</p>
-	  </div>
+	
+	<!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	<!-- Slick slider -->
+    <script type="text/javascript" src="<?php echo base_url().'assets/user/js/slick.min.js'?>"></script>
+    <!-- Progress Bar -->
+    <script src="https://unpkg.com/circlebars@1.0.3/dist/circle.js"></script>
+    <!-- Filterable Gallery js -->
+    <script type="text/javascript" src="<?php echo base_url().'assets/user/js/jquery.filterizr.min.js'?>"></script>
+    <!-- Gallery Lightbox -->
+    <script type="text/javascript" src="<?php echo base_url().'assets/user/js/jquery.magnific-popup.min.js'?>"></script>
+    <!-- Counter js -->
+    <script type="text/javascript" src="<?php echo base_url().'assets/user/js/counter.js'?>"></script>
+    <!-- Ajax contact form  -->
+    <script type="text/javascript" src="<?php echo base_url().'assets/user/js/app.js'?>"></script>
+    
+	
+    <!-- Custom js -->
+	<script type="text/javascript" src="<?php echo base_url().'assets/user/js/custom.js'?>"></script>
 
-	  <div class="col-lg-2 col-md-6 footer-links">
-		<h4>Media Sosial</h4>
-		<ul>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Instagram : @SelafutBogor</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Twitter : @SelafutBogor</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Youtube : @SelafutBogor</a></li>
-		  <li><i class="bx bx-chevron-right"></i> <a href="#">Facebook : SelafutBogor</a></li>
-		</ul>
-	  </div>
-
-	  <div class="col-lg-3 col-md-6 footer-links">
-		<h4>Fasilitas</h4>
-		<ul>
-		  <li><i class="bx bx-chevron-right"></i> Kamar Ganti </li>
-		  <li><i class="bx bx-chevron-right"></i> Kamar Mandi </li>
-		  <li><i class="bx bx-chevron-right"></i> Air Minum </li>
-		  <li><i class="bx bx-chevron-right"></i> Bola </li>
-		</ul>
-	  </div>
-
-	  <div class="col-lg-4 col-md-6 footer-newsletter">
-		<h4>Subscribe</h4>
-		<form action="" method="post">
-		  <input type="email" name="email"><input type="submit" value="Subscribe">
-		</form>
-	  </div>	
-
-	</div>
-  </div>
-</div>
-
-<div class="container d-md-flex py-4">
-
-  <div class="me-md-auto text-center text-md-start">
-	<div class="copyright">
-	  &copy; Copyright <strong>SE<span class="text-primary">LA</span>FUT</strong>. All Rights Reserved
-	</div>
-	<div class="credits">
-	  <!-- All the links in the footer should remain intact. -->
-	  <!-- You can delete the links only if you purchased the pro version. -->
-	  <!-- Licensing information: https://bootstrapmade.com/license/ -->
-	  <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/lumia-bootstrap-business-template/ -->
-	  Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-	</div>
-  </div>
-  <div class="social-links text-center text-md-right pt-3 pt-md-0">
-	<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-	<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-	<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-	<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-	<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-  </div>
-</div>
-</footer>
+	<!-- About us Skills Circle progress  -->
+	<script type="text/javascript">
+		$('.alert-message').alert().delay(5000).slideUp('slow');
+	</script>
+  </body>
+</html>
