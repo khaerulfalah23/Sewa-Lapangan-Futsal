@@ -29,8 +29,8 @@
 										<div class="filtr-container">
 
 							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
-							                   <a class="mu-imglink" href="<?php echo base_url().'assets/template/images/portfolio/img-9.jpg'?>" title="MATRAS">
-								                   	<img class="img-responsive" src="<?php echo base_url().'assets/template/images/portfolio/img-9.jpg'?>" alt="image">
+							                   <a class="mu-imglink" href="<?php echo base_url().'assets/user/images/sintetis-1.jpg'?>" title="MATRAS">
+								                   	<img class="img-responsive" src="<?php echo base_url().'assets/user/images/sintetis-1.jpg'?>" alt="image">
 								                   	<div class="mu-filter-item-content">
 								                    	<h4 class="mu-filter-item-title">SINTETIS</h4>
 								                    	<span class="fa fa-long-arrow-right"></span>
@@ -39,8 +39,8 @@
 							                </div>
 
 							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
-							                    <a class="mu-imglink" href="<?php echo base_url().'assets/template/images/portofolio/img-12.jpg'?>" title="MATRAS">
-							                    	<img class="img-responsive" src="<?php echo base_url().'assets/template/images/portfolio/img-12.jpg'?>" alt="image">
+							                    <a class="mu-imglink" href="<?php echo base_url().'assets/user/images/sintetis-2.jpg'?>" title="MATRAS">
+							                    	<img class="img-responsive" src="<?php echo base_url().'assets/user/images/sintetis-2.jpg'?>" alt="image">
 								                    <div class="mu-filter-item-content">
 								                    	<h4 class="mu-filter-item-title">SINTETIS</h4>
 								                    	<span class="fa fa-long-arrow-right"></span>
@@ -49,8 +49,8 @@
 							                </div>
 
 							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
-							                    <a class="mu-imglink" href="<?php echo base_url().'assets/template/images/portfolio/img-11.jpg'?>" title="MATRAS">
-							                    	<img class="img-responsive" src="<?php echo base_url().'assets/template/images/portfolio/img-11.jpg'?>" alt="image">
+							                    <a class="mu-imglink" href="<?php echo base_url().'assets/user/images/sintetis-3.jpg'?>" title="MATRAS">
+							                    	<img class="img-responsive" src="<?php echo base_url().'assets/user/images/sintetis-3.jpg'?>" alt="image">
 								                    <div class="mu-filter-item-content">
 								                    	<h4 class="mu-filter-item-title">SINTETIS</h4>
 								                    	<span class="fa fa-long-arrow-right"></span>

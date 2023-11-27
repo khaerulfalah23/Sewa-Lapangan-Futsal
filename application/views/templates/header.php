@@ -18,7 +18,6 @@
     <!-- Skills Circle CSS  -->
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/circlebars@1.0.3/dist/circle.css">
     
-
     <!-- Main Style -->
     <link href="<?= base_url().'assets/user/css/style.css'?>" rel="stylesheet">
 
@@ -36,7 +35,6 @@
     <link rel="stylesheet" type="text/css" href="<?= base_url().'assets/user/vendor/datatable/datatables.css' ?>">
     <script type="text/javascript" src="<?= base_url().'assets/user/vendor/datatable/jquery.datatables.js'; ?>"></script>
   <script type="text/javascript" src="<?= base_url().'assets/user/vendor/datatable/datatables.js'; ?>"></script>
- 
  
 	</head>
   <body>
